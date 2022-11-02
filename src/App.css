@@ -1,0 +1,105 @@
+.Parentbox {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.Foto {
+  float: left;
+  width: 40%;
+  margin-left: 200px;
+  margin-top: 80px;
+  height: 500px;
+  background: white;
+  border-radius: 80px;
+}
+
+.Foto img {
+  width: 670px;
+  border-radius: 80px;
+}
+
+.Deskripsi {
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+  margin-top: 60px;
+}
+
+.Deskripsi .Info {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Price {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.Deskripsi .Title {
+  margin: 0;
+}
+
+.Deskripsi .Cate {
+  color: #acaeb2;
+}
+.Deskripsi .s {
+  width: 50px;
+  height: 35px;
+  background-color: wheat;
+  
+  
+}
+.Deskripsi .s:hover {
+background-color: aquamarine;
+}
+.Deskripsi .m {
+  width: 50px;
+  height: 35px;
+  background-color: thistle;
+  margin-left: 5px;
+}
+.Deskripsi .m:hover {
+  background-color: aquamarine;
+  }
+.Deskripsi .l {
+  width: 50px;
+  height: 35px;
+  background-color: aqua;
+  margin-left: 5px;
+}
+.Deskripsi .l:hover {
+  background-color: aquamarine;
+  }
+.Deskripsi .xl {
+  width: 50px;
+  height: 35px;
+  background-color: yellow;
+  margin-left: 5px;
+}
+.Deskripsi .xl:hover {
+  background-color: aquamarine;
+  }
+.Deskripsi .buy {
+  margin-top: 60px;
+  width: 100px;
+  height: 40px;
+  background-color: black;
+  color: azure;
+}
+.Deskripsi .buy:hover{
+  background-color: #acaeb2;
+}
+.Deskripsi .add {
+  margin-top: 60px;
+  margin-left: 20px;
+  width: 150px;
+  height: 40px;
+  background-color: white;
+
+}
+.Deskripsi .add:hover{
+  background-color: #acaeb2;
+}
